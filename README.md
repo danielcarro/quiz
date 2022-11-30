@@ -1,6 +1,6 @@
 ## Quiz
 
-teste seu javascript
+Teste seu javascript
 
 Projeto desenvolvido em javascript.
 
@@ -9,7 +9,7 @@ Projeto desenvolvido em javascript.
 ## Quiz
 
 
-test your javascript
+Test your javascript
 
 
 Project developed in javascript.
